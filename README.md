@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 Contact Me
 
-![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=)
+![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@gyfla/posts)
 
 
 <div style="text-align: left;"> 
